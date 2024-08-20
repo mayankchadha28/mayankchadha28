@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am <b>Mayank Chadha</b>, currently pursuing my Masters in Cyber-Physical Systems with IoT concentration at Northeastern University
 
 <!--
 **mayankchadha28/mayankchadha28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
