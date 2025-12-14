@@ -1,6 +1,5 @@
 ## Hi there 👋
-I am <b>Mayank Chadha</b>, currently pursuing my Masters in Cyber-Physical Systems with IoT concentration at Northeastern University
-
+I am <b>Mayank Chadha</b>, Experienced in developing XR applications, Embedded Systems, and Digital Twins to optimize real-time industrial and interactive environments.
 <!--
 **mayankchadha28/mayankchadha28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
